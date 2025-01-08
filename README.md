@@ -41,6 +41,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />      
   <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  ![Snake animation](https://github.com/Wendell_Ribeiro/blob/output/github-contribution-grid-snake.svg)
 
 
           
