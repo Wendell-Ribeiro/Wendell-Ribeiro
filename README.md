@@ -42,15 +42,14 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />      
   <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
  
+## 🐍 Snake
 <!-- Github Snake Grid-->
 <a href="https://github.com/Platane/snk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendell-Ribeiro/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendell-Ribeiro/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborbadev/Wendell-Ribeiro/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
- 
-
           
 </div>
