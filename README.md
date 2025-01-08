@@ -1,8 +1,8 @@
 Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
 
--🔭 Atualmente estudando Sistema de informação.<BR>
--🐱‍👤 Estudando full stack com foco em back-end..<BR>
+-🔭 Bacharelado em Sistema de informação.<BR>
+-🐱‍👤 Estudando full stack <BR>
 
 
 <picture>
@@ -11,7 +11,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?Wendell1719&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/apiWendell-Ribeiro&show_icons=true"
   media="(prefers-color-scheme:heavy), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=wendell1719&show_icons=true" />
@@ -41,5 +41,8 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />      
   <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+![Snake animation](https://github.com/Wendell-Ribeiro/blob/output/github-contribution-grid-snake.svg)
+
           
 </div>
