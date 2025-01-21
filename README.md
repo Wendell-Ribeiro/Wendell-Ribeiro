@@ -2,7 +2,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
 
 -🔭 Bacharelado em Sistema de informação.<BR>
--🐱‍👤 o Pytho|Java e JavaScript|React JS| Django e Spring Boo <BR>
+-🐱‍👤 Programador full Stack <BR>
 
 
 <picture>
