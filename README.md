@@ -1,8 +1,7 @@
 Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
 
--🔭 Bacharelado em Sistema de informação.<BR>
--🐱‍👤 Programador full Stack <BR>
+
 
 
 <picture>
