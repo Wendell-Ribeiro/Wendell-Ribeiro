@@ -1,7 +1,6 @@
 Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
-Desenvolvedor em início de carreira, com foco em Desenvolvimento Web e Análise de Dados. Tenho conhecimento com HTML, CSS, JavaScript (incluindo React e Node.js) e MySQL. Busco sempre aprimorar minhas habilidades e contribuir com projetos práticos.
-
+Sou recém-formado em Sistemas de Informação e tenho experiência prática em desenvolvimento backend e fullstack por meio de projetos acadêmicos e pessoais. Busco uma oportunidade para atuar com PHP, desenvolvimento backend e tecnologias frontend.
 
 
 
