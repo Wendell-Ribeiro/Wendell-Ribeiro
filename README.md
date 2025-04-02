@@ -7,7 +7,7 @@ Sou recém-formado em Sistemas de Informação e tenho experiência prática em 
 
 <picture>
 <source 
-  img height = "180" src set="https://github-readme-stats.vercel.app/api?username=Wendell1719&show_icons=true&theme=Dracula"
+  img height = "180" src set="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=Dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
