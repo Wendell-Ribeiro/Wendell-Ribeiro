@@ -40,7 +40,7 @@ Sou recém-formado em Sistemas de Informação e tenho experiência prática em 
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />      
-  <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="PHP" height="30" width="40"src="https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=3&origin=tag&related_id=5968332"/>
  
 ## 🐍 Snake
 <!-- Github Snake Grid-->
