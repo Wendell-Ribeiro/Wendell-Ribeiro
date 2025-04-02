@@ -14,7 +14,7 @@ Sou recém-formado em Sistemas de Informação e tenho experiência prática em 
   srcset="https://github-readme-stats.vercel.app/apiWendell-Ribeiro&show_icons=true"
   media="(prefers-color-scheme:heavy), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=wendell1719&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true" />
 </picture>
 
 
