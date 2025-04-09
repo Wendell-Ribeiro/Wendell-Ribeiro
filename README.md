@@ -1,6 +1,6 @@
 Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
-Sou recém-formado em Sistemas de Informação e tenho experiência prática em desenvolvimento backend e fullstack por meio de projetos acadêmicos e pessoais. Busco uma oportunidade para atuar com PHP, desenvolvimento backend e tecnologias frontend.
+
 
 
 
