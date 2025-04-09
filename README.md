@@ -40,8 +40,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />      
-  <img align="center" alt="PHP" height="30" width="40"src=" https://www.svgrepo.com/show/303208/php-1-logo.svg"/>
- 
+  <img align="center" alt="PHP" height="30" width="40"src=" https://www.svgrepo.com/show/303208/php-1-logo.svg"/> 
 ## 🐍 Snake
 <!-- Github Snake Grid-->
 <picture>
