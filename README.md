@@ -2,7 +2,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
 
 🎯 Desenvolvedor Web em início de carreira, formado em Sistemas de Informação.
-💻 Apaixonado por tecnologia e por transformar ideias em código.
+💻 Entusiasta de tecnologia e motivado a transformar ideias em código.
 🚀 Conhecimento em HTML, CSS, JavaScript, React, Java e MySQL.
 🔧 Familiaridade com Git, GitHub, XAMPP e boas práticas de versionamento.
 📈 Buscando sempre aprender, evoluir e contribuir com projetos que façam a diferença.
