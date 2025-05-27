@@ -41,13 +41,15 @@ Tenho conhecimentos em Power BI (Dashboards, DAX, Power Query), Python (Pandas, 
 ## Tecnologias que tenho Conhecimentos
 <p align="left">
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/external-database-data-analytics-outline-outline-juicy-fish.png" alt="Banco de Dados" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="Banco de Dados" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
 </p>
 
 ## 🐍 Snake
