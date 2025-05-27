@@ -41,7 +41,7 @@ Tenho conhecimentos em Power BI (Dashboards, DAX, Power Query), Python (Pandas, 
 ## Tecnologias que tenho Conhecimentos
 <p align="left">
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="Banco de Dados" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" alt="Banco de Dados" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/>
