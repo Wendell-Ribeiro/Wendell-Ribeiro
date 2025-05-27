@@ -1,11 +1,15 @@
-Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
+ Bem vindo ao meu GitHub
+ 
+# 👋 Wendell Gama Ribeiro
 
+🧑‍💻 23 anos | São Paulo – SP  
+🎓 Formado em Sistemas de Informação  
+📊 Focado em Análise de Dados e Business Intelligence
 
-🎯 Desenvolvedor Web em início de carreira, formado em Sistemas de Informação.
-💻 Entusiasta de tecnologia e motivado a transformar ideias em código.
-🚀 Conhecimento em HTML, CSS, JavaScript, React, Java e MySQL.
-🔧 Familiaridade com Git, GitHub, XAMPP e boas práticas de versionamento.
-📈 Buscando sempre aprender, evoluir e contribuir com projetos que façam a diferença.
+Tenho conhecimentos em Power BI (Dashboards, DAX, Power Query), Python (Pandas, Matplotlib), SQL (MySQL, PostgreSQL) e Excel avançado. Busco minha primeira oportunidade na área de Dados, aplicando técnicas analíticas para gerar insights e apoiar decisões estratégicas.
+
+🔗 [Portfólio](https://wendell-ribeiro.github.io/meu_portifolio) | [GitHub](https://github.com/Wendell-Ribeiro)
+
 
 
 
