@@ -2,11 +2,11 @@
  
 # 👋 Wendell Gama Ribeiro
 
-🧑‍💻 23 anos | São Paulo – SP  
+🧑‍💻 24 anos | São Paulo – SP  
 🎓 Formado em Sistemas de Informação  
-📊 Focado em Análise de Dados e Business Intelligence
+📊 Focado em Bck-end e analise de dados
 
-Tenho conhecimentos em Power BI (Dashboards, DAX, Power Query), Python (Pandas, Matplotlib), SQL (MySQL, PostgreSQL) e Excel avançado.
+
 
 🔗 [Portfólio](https://wendell-ribeiro.github.io/meu_portifolio) | [GitHub](https://github.com/Wendell-Ribeiro)
 
