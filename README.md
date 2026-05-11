@@ -55,21 +55,7 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
   <img src="https://img.icons8.com/color/48/api-settings.png" width="45" style="display:inline-block;" />
 </p>
 
-**Conhecimentos:**
-
-- Testes Manuais  - Testes Funcionais  - Testes Exploratórios  - Testes de Regressão  - Casos de Teste  - Documentação de Bugs  - Jira  - SQL  - Python  - Git & GitHub  - APIs / Postman - Scrum / Kanban  
-
 <hr>
-
-## 📚 Atualmente estudando
-
-- Casos de Teste  
-- Testes de API com Postman  
-- Boas práticas de QA  
-- Automação de testes com Python  
-
-<hr>
-
 ## 🐍 Snake
 
 <picture>
