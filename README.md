@@ -14,10 +14,12 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
   srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
+
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true"
   media="(prefers-color-scheme: light)"
 />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true" />
 </picture>
 
@@ -41,40 +43,51 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
 
 <hr>
 
-## 🛠️ Tecnologias e Conhecimentos QA
+## 🛠️ Tecnologias e Ferramentas QA
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40"/>
+
+<img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/postgreesql.png" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/api-settings.png" width="40" height="40"/>
+
 </p>
 
 **Conhecimentos:**
 
-- Testes Manuais
-- Testes Funcionais
-- Testes Exploratórios
-- Testes de Regressão
-- Documentação de Bugs
-- Casos de Teste
-- Jira
-- SQL
-- Python
-- Git & GitHub
-- HTML / CSS / JavaScript
-- Scrum / Kanban
+- Testes Manuais  
+- Testes Funcionais  
+- Testes Exploratórios  
+- Testes de Regressão  
+- Casos de Teste  
+- Documentação de Bugs  
+- Jira  
+- SQL  
+- Python  
+- Git & GitHub  
+- APIs / Postman  
+- Scrum / Kanban  
 
 <hr>
 
 ## 📚 Atualmente estudando
 
-- Casos de teste
-- Testes de API com Postman
-- Boas práticas de QA
-- Automação de testes com Python
+- Casos de Teste  
+- Testes de API com Postman  
+- Boas práticas de QA  
+- Automação de testes com Python  
 
 <hr>
 
@@ -82,6 +95,9 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
 </picture>
