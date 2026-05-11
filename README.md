@@ -6,7 +6,6 @@
 
 Focado em **Quality Assurance**, testes manuais, validação funcional, documentação de bugs, análise de requisitos e acompanhamento de demandas com **Jira**.
 
-🔗 [Portfólio](https://wendell-ribeiro.github.io/meu_portifolio) | [GitHub](https://github.com/Wendell-Ribeiro)
 
 <picture>
 <source 
@@ -46,14 +45,14 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
 ## 🛠️ Tecnologias e Ferramentas QA
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/api-settings.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://img.icons8.com/fluency/48/database.png" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://img.icons8.com/fluency/48/github.png" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="45" style="display:inline-block; margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/api-settings.png" width="45" style="display:inline-block;" />
 </p>
 
 **Conhecimentos:**
