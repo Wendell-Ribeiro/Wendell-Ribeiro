@@ -1,79 +1,87 @@
 # 👋 Wendell Gama Ribeiro
 
-🧑‍💻 24 anos | São Paulo – SP  
-🎓 Bacharel em Sistemas de Informação  
-🔎 Focado em Quality Assurance (QA) e Testes de Software  
+🧑‍💻 **QA Júnior | Testes de Software**  
+🎓 **Bacharel em Sistemas de Informação**  
+📍 **São Paulo – SP**
 
-Profissional formado em Sistemas de Informação e atualmente atuando como **Suporte Técnico N1 em telecomunicações**.
+Focado em **Quality Assurance**, testes manuais, validação funcional, documentação de bugs, análise de requisitos e acompanhamento de demandas com **Jira**.
 
-Estou em transição para a área de **Quality Assurance**, com conhecimentos em **testes manuais, validação funcional, criação de cenários e casos de teste, documentação de bugs, análise de requisitos e acompanhamento de demandas utilizando Jira**.
-
-Tenho perfil analítico, atenção aos detalhes e foco contínuo em qualidade de software.
-
----
-
-## 🎯 Objetivo
-
-Conquistar minha primeira oportunidade como **QA Júnior / Analista de Testes Júnior**, contribuindo com qualidade, organização e melhoria contínua dos processos de software.
-
----
-
-## 🔗 Links
-
-[Portfólio](https://wendell-ribeiro.github.io/meu_portifolio) • [GitHub](https://github.com/Wendell-Ribeiro) • [LinkedIn](https://www.linkedin.com/in/wendell-gama-ribeiro-3a9681189/)
-
----
-
-## 📊 Estatísticas
+🔗 [Portfólio](https://wendell-ribeiro.github.io/meu_portifolio) | [GitHub](https://github.com/Wendell-Ribeiro)
 
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"
-media="(prefers-color-scheme: dark)"
+  img height="180"
+  srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true"
+  media="(prefers-color-scheme: light)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true" />
 </picture>
 
----
+<hr>
 
-## 📫 Contato
+## 📫 Contatos
 
-- WhatsApp: (11) 98699-8538  
-- E-mail: ribeiro.wendell.dev@gmail.com  
-- LinkedIn: www.linkedin.com/in/wendell-gama-ribeiro-3a9681189/
+<div>
+  <a href="https://wa.me/+5511986998538" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 
----
+  <a href="mailto:ribeiro.wendell.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-## 🛠️ Conhecimentos em QA
+  <a href="https://www.linkedin.com/in/wendell-gama-ribeiro-3a9681189/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Tecnologias e Conhecimentos QA
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+**Conhecimentos:**
 
 - Testes Manuais
 - Testes Funcionais
 - Testes Exploratórios
 - Testes de Regressão
-- Criação de Casos de Teste
 - Documentação de Bugs
-- Evidências de Teste
+- Casos de Teste
 - Jira
-- SQL para Validação de Dados
-- Git e GitHub
+- SQL
+- Python
+- Git & GitHub
+- HTML / CSS / JavaScript
 - Scrum / Kanban
-- Lógica de Programação
 
----
+<hr>
 
-## 🚀 Projetos em Desenvolvimento
+## 📚 Atualmente estudando
 
-- Documentação de Casos de Teste
-- Relatórios de Bugs
-- Cenários de Testes Funcionais
-- Estudos práticos com Jira
-- Validação de APIs com Postman
+- Casos de teste
+- Testes de API com Postman
+- Boas práticas de QA
+- Automação de testes com Python
 
----
+<hr>
 
-## 🐍 Contribuições
+## 🐍 Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
