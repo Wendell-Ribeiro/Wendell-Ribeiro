@@ -5,7 +5,15 @@
 📍 **São Paulo – SP**
 
 Focado em **Quality Assurance**, testes manuais, validação funcional, documentação de bugs, análise de requisitos e acompanhamento de demandas com **Jira**.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"/>
 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendell-Ribeiro&theme=dracula"/>
+</p>
 
 <picture>
 <source 
