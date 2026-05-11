@@ -6,15 +6,14 @@
 
 Focado em **Quality Assurance**, testes manuais, validação funcional, documentação de bugs, análise de requisitos e acompanhamento de demandas com **Jira**.
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendell-Ribeiro&theme=dracula"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=Wendell-Ribeiro&theme=dracula"/>
 </p>
-
 <picture>
 <source 
   img height="180"
