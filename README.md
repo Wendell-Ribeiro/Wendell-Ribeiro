@@ -57,18 +57,7 @@ Focado em **Quality Assurance**, testes manuais, validação funcional, document
 
 **Conhecimentos:**
 
-- Testes Manuais  
-- Testes Funcionais  
-- Testes Exploratórios  
-- Testes de Regressão  
-- Casos de Teste  
-- Documentação de Bugs  
-- Jira  
-- SQL  
-- Python  
-- Git & GitHub  
-- APIs / Postman  
-- Scrum / Kanban  
+- Testes Manuais  - Testes Funcionais  - Testes Exploratórios  - Testes de Regressão  - Casos de Teste  - Documentação de Bugs  - Jira  - SQL  - Python  - Git & GitHub  - APIs / Postman - Scrum / Kanban  
 
 <hr>
 
