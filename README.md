@@ -61,33 +61,6 @@ media="(prefers-color-scheme: light)"
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" style="display:inline-block;" />
 </p>
 
-### 📊 Conhecimentos
-
-* 🐍 Python
-* 🗄️ SQL
-* 🐘 PostgreSQL
-* 🐬 MySQL
-* 🐼 Pandas
-* 🔢 NumPy
-* 📈 Análise e visualização de dados
-* 🧹 Limpeza e tratamento de dados
-* 📊 Power BI
-* 📑 Excel
-* 🔗 APIs
-* 🌐 Git & GitHub
-
-<hr>
-
-## 📂 Projetos de Dados
-
-Aqui você encontrará projetos desenvolvidos para praticar e demonstrar conhecimentos em **Análise de Dados**, incluindo:
-
-* 📊 Análise exploratória de dados
-* 🧹 Limpeza e tratamento de dados
-* 🗄️ Consultas SQL
-* 📈 Dashboards e indicadores
-* 🐍 Análises utilizando Python
-* 💡 Geração de insights a partir dos dados
 
 <hr>
 
