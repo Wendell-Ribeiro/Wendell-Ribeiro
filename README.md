@@ -42,7 +42,7 @@ Tenho interesse em transformar dados em **informações relevantes, indicadores 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="margin-right:10px;" />
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="45" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="45" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/claude" width="45" style="margin-right:10px;" />
 </p>
 
