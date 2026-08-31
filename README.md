@@ -4,7 +4,7 @@
 🎓 **Bacharel em Sistemas de Informação**  
 📍 **São Paulo – SP**
 
-Profissional com foco em **Análise de Dados**, com conhecimentos em **Python, SQL, PostgreSQL, Excel e Power BI**.
+Profissional com foco em **Análise de Dados**, com conhecimentos em **Excel, Python, SQL, Power BI e IA Generativa**.
 
 Tenho interesse em transformar dados em **informações relevantes, indicadores e insights**, contribuindo para análises e apoio à tomada de decisões.
 
@@ -39,14 +39,13 @@ Tenho interesse em transformar dados em **informações relevantes, indicadores 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="margin-right:10px;" />
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="45" style="margin-right:10px;" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45" style="margin-right:10px;" />
 </p>
+
+**Habilidades:** Excel • Python • SQL • Power BI • IA Generativa
 
 <hr>
 
