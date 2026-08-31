@@ -6,15 +6,19 @@
 
 Focado em **Análise de Dados**, com conhecimentos em **Python, SQL, PostgreSQL, Excel e Power BI**.
 Interessado em transformar dados em **informações, insights e indicadores** para apoiar a tomada de decisões.
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula&cache_seconds=1800" />
-</p>
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"
+  />
 
-<hr>
+  <img
+    height="180em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula"
+  />
+</p>
 
 ## 📫 Contatos
 
