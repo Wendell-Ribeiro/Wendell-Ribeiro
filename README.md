@@ -35,6 +35,7 @@ Tenho interesse em transformar dados em **informações relevantes, indicadores 
 
 <hr>
 
+
 ## 🛠️ Tecnologias e Ferramentas — Dados
 
 <p align="left">
@@ -42,10 +43,10 @@ Tenho interesse em transformar dados em **informações relevantes, indicadores 
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="45" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/claude" width="45" style="margin-right:10px;" />
 </p>
 
-**Habilidades:** Excel • Python • SQL • Power BI • IA Generativa
+**Habilidades:** Excel • Python • SQL • Power BI • Claude
 
 <hr>
 
