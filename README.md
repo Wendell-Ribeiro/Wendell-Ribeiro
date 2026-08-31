@@ -46,8 +46,7 @@ Tenho interesse em transformar dados em **informações relevantes, indicadores 
   <img src="https://cdn.simpleicons.org/claude" width="45" style="margin-right:10px;" />
 </p>
 
-**Habilidades:** Excel • Python • SQL • Power BI • Claude
-
+**Habilidades:** Python • Excel • Power BI • SQL Server • Claude
 <hr>
 
 ## 🐍 Snake
