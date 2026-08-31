@@ -10,23 +10,9 @@ Interessado em transformar dados em **informações, insights e indicadores** pa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell-Ribeiro&layout=compact&theme=dracula&cache_seconds=1800" />
 </p>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true"
-media="(prefers-color-scheme: light)"
-/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wendell-Ribeiro&show_icons=true" />
-</picture>
 
 <hr>
 
@@ -41,8 +27,8 @@ media="(prefers-color-scheme: light)"
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Wendell-Ribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://wa.me/5511986998538" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
 
@@ -61,16 +47,22 @@ media="(prefers-color-scheme: light)"
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" style="display:inline-block;" />
 </p>
 
-
 <hr>
 
 ## 🐍 Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+  />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+/>
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-
-</picture>
+<img
+ alt="github contribution grid snake animation"
+ src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+/> </picture>
